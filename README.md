@@ -96,3 +96,9 @@ Version 1.0 (2003)
 
 Pre 1.0 (2001)
    Really old applescript
+
+
+
+####  备注操作中文文档
+
+
